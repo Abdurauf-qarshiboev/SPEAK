@@ -189,7 +189,7 @@ ul {
     height: 100%;
 } */
 .app .video {
-  background-image: url("./img/servicesyoutubepic.png");
+  background-image: url("../img/servicesyoutubepic.png");
   background-size: cover;
   width: 615px;
   height: 342.5px;
@@ -508,7 +508,7 @@ ul {
   margin-bottom: 61px;
 }
 .about__center .video {
-  background-image: url("./img/servicesyoutubepic.png");
+  background-image: url("../img/servicesyoutubepic.png");
   background-size: cover;
   width: 760px;
   height: 423px;
@@ -625,7 +625,7 @@ ul {
 }
 .hidden_buttons .dot-top::after {
   content: "";
-  background: url("./img/hiddencontent.png") no-repeat;
+  background: url("../img/hiddencontent.png") no-repeat;
   background-size: cover;
   width: 20px;
   height: 2px;
